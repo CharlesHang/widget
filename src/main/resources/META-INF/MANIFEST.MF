@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: hjb.swing.upload.WatermarkAndPasswordForPdf
+Class-Path: freemarker-2.3.28.jar bcmail-jdk14-1.38.jar jfreechart-1.5.0
+ .jar jruby-complete-9.1.12.0.jar xmlworker-5.4.1.jar flying-saucer-pdf-
+ 9.0.3.jar itext-asian-5.2.0.jar cglib-nodep-2.2.2.jar bctsp-jdk14-1.38.
+ jar bcpkix-jdk15on-1.49.jar cglib-2.2.jar asm-3.1.jar bcprov-jdk15on-1.
+ 49.jar bcmail-jdk14-138.jar guava-20.0.jar bcprov-jdk14-138.jar bcprov-
+ jdk14-1.38.jar bcmail-jdk15on-1.49.jar itext-2.1.7.jar flying-saucer-co
+ re-9.0.3.jar itextpdf-5.5.13.jar core-renderer-R8.jar
+
