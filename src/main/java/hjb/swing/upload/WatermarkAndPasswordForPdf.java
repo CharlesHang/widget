@@ -18,7 +18,7 @@ import javax.swing.*;
  * @author tiebin
  */
 public class WatermarkAndPasswordForPdf extends JFrame implements ActionListener {
-	private static final long	serialVersionUID	= 3070392568212794982L;
+	private static final long	serialVersionUID	= 3070392568212794922L;
 	private JButton				open				= new JButton("pdf加密加水印");
 	private JTextField			waterMask			= new JTextField(20);
 	private JTextField			password			= new JTextField(20);
